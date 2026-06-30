@@ -1,0 +1,12 @@
+streamlit
+gitpython
+requests
+pandas
+numpy
+ollama
+faiss-cpu
+chromadb
+sentence-transformers
+scikit-learn
+python-dotenv
+pymysql

@@ -1,0 +1,6 @@
+{
+    "theme": "Light",
+    "provider": "Ollama",
+    "default_model": "qwen2.5:1.5b",
+    "top_k": 5
+}
